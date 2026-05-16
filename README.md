@@ -37,7 +37,7 @@ A showcase of my development skills and creative projects. Check it out to see w
 
 ## ߓ Get in Touch
 - **GitHub:** [@King-Metallion](https://github.com/King-Metallion)
-- **Email:** [your-email@example.com]
+- **Email:** [mail@krrissje.link]
 - **Twitter/X:** [@your-handle]
 
 ---
